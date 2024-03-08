@@ -5,3 +5,7 @@ h1 {
   color: white;
   margin: 20px auto;
 }
+
+body {
+  background-color: coral;
+}
